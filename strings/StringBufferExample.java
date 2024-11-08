@@ -1,4 +1,4 @@
-package cadenas;
+package strings;
 /*
  * Clase StringBuffer
  * https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/StringBuffer.html 

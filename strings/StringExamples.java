@@ -57,6 +57,7 @@ public class StringExamples {
         System.out.println("cadenaNumero: " + cadenaNumero);
         System.out.println("cadenaBooleano: " + cadenaBooleano);
         System.out.println("cadenaChar: " + cadenaChar);
+        System.out.println(cadenaCaracteres);// Lo he puesto para quitar el error no se si se tiene que mostrar
 
 
 

@@ -6,7 +6,7 @@
  * Aunque no es la dirección de memoria real, este código es único para cada instancia
  *  mientras el programa se esté ejecutando y es útil para mostrar la referencia de identidad de cada objeto.
  */
-package cadenas;
+package strings;
 
 public class IdentidadObjeto {
     public static void main(String[] args) {

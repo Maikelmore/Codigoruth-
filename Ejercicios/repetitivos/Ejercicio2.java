@@ -12,9 +12,10 @@ class Ejercicio2{
         for (contador=0;contador <=10;contador=contador+1){
             //System.out.println(numero*contador);
             System.out.println(numero + " * " + contador + " = " + (numero*contador));
-        }
-        scanner.close();
+            scanner.close();
 
+        }
+    
 
     }
 }

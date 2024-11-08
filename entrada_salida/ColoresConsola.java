@@ -13,9 +13,9 @@ public class ColoresConsola {
         final String ANSI_CYAN = "\u001B[36m";
         final String ANSI_WHITE = "\u001B[37m";
 
-        public static final String ANSI_BOLD = "\u001B[1m";
-        public static final String ANSI_UNDERLINE = "\u001B[4m";
-        public static final String ANSI_INVERT = "\u001B[7m";
+        final String ANSI_BOLD = "\u001B[1m";
+        final String ANSI_UNDERLINE = "\u001B[4m";
+        final String ANSI_INVERT = "\u001B[7m";
         // Ejemplo 1: Colores básicos
         System.out.println(ANSI_RED + "Este texto es rojo" + ANSI_RESET);
         System.out.println(ANSI_GREEN + "Este texto es verde" + ANSI_RESET);
