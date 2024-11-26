@@ -18,6 +18,7 @@ import java.util.Scanner;
 public class ArrayExample01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+     
         //Ejemplo array de enteros para guardar 5 edades
         int[] edades = new int[5]; //array de 5 posiciones de 0 a 4, puedo almacenar enteros. Inicialmente, se asigna el valor por defecto del tipo En este caso 0
 
@@ -124,12 +125,11 @@ public class ArrayExample01 {
         //recorre todos los elementos del vector, elemento a elemento
         for (char caracter: letras){
             System.out.println("Letra: " + caracter);
-        
         }
-        sc.close();  
-        
 
+
+
+        sc.close();
 
     }
-   
 }

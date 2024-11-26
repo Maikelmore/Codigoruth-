@@ -1,4 +1,4 @@
-package strings;
+package cadenas;
 public class CharSequenceExample {
     public static void main(String[] args) {
         // Creación de distintos tipos de CharSequence

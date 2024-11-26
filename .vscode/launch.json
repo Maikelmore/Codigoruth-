@@ -1,0 +1,532 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Casting",
+            "request": "launch",
+            "mainClass": "Basico.Casting",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "DataTypeExamples",
+            "request": "launch",
+            "mainClass": "Basico.DataTypeExamples",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ElementosJava",
+            "request": "launch",
+            "mainClass": "Basico.ElementosJava",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Hola",
+            "request": "launch",
+            "mainClass": "Basico.Hola",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "HolaNombre",
+            "request": "launch",
+            "mainClass": "Basico.HolaNombre",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Identifidores",
+            "request": "launch",
+            "mainClass": "Basico.Identifidores",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "LeerDatosScanner",
+            "request": "launch",
+            "mainClass": "Basico.LeerDatosScanner",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "LeerTiposDatos",
+            "request": "launch",
+            "mainClass": "Basico.LeerTiposDatos",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ej1String",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ej1String",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ej2String",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ej2String",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ej3String",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ej3String",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ej4String",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ej4String",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ej4String_version2",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ej4String_version2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ej5String",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ej5String",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1String2",
+            "request": "launch",
+            "mainClass": "Ejercicios.Cadenas.Ejercicio1String2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejer1Arrays1",
+            "request": "launch",
+            "mainClass": "Ejercicios.arrays.Ejer1Arrays1",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejer1Arrays2",
+            "request": "launch",
+            "mainClass": "Ejercicios.arrays.Ejer1Arrays2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejer3Arrays2",
+            "request": "launch",
+            "mainClass": "Ejercicios.arrays.Ejer3Arrays2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejer4Arrays2",
+            "request": "launch",
+            "mainClass": "Ejercicios.arrays.Ejer4Arrays2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejer5Arrays2",
+            "request": "launch",
+            "mainClass": "Ejercicios.arrays.Ejer5Arrays2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicios.repetitivos.Ejercicio2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicios.repetitivos.Ejercicio3",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicios.repetitivos.Ejercicio4",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicios.repetitivos.Ejercicio5",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicios.repetitivos.Ejercicio6",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios.selectivos.Ejercicio4",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios.selectivos.Ejercicio5",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios.selectivos.Ejercicio6",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicios.selectivos.Ejercicio7",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleAnidamiento01",
+            "request": "launch",
+            "mainClass": "anidar_estruc_control.ExampleAnidamiento01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleAnidamiento02",
+            "request": "launch",
+            "mainClass": "anidar_estruc_control.ExampleAnidamiento02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleAnidamiento03",
+            "request": "launch",
+            "mainClass": "anidar_estruc_control.ExampleAnidamiento03",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleAnidamiento01(1)",
+            "request": "launch",
+            "mainClass": "anidar_estructuras.ExampleAnidamiento01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleAnidamiento02(1)",
+            "request": "launch",
+            "mainClass": "anidar_estructuras.ExampleAnidamiento02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleAnidamiento03(1)",
+            "request": "launch",
+            "mainClass": "anidar_estructuras.ExampleAnidamiento03",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExample01",
+            "request": "launch",
+            "mainClass": "arrays_unidimensionales.ArrayExample01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ColoresConsola",
+            "request": "launch",
+            "mainClass": "entrada_salida.ColoresConsola",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ConsoleExample",
+            "request": "launch",
+            "mainClass": "entrada_salida.ConsoleExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleOut",
+            "request": "launch",
+            "mainClass": "entrada_salida.ExampleOut",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "LeerContrasena",
+            "request": "launch",
+            "mainClass": "entrada_salida.LeerContrasena",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "LeerDatosBuffered",
+            "request": "launch",
+            "mainClass": "entrada_salida.LeerDatosBuffered",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "LeerDatosScanner(1)",
+            "request": "launch",
+            "mainClass": "entrada_salida.LeerDatosScanner",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "TablaEmpleados",
+            "request": "launch",
+            "mainClass": "entrada_salida.TablaEmpleados",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "TablaEmpleadosv2",
+            "request": "launch",
+            "mainClass": "entrada_salida.TablaEmpleadosv2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "TablaEmpleadosv3",
+            "request": "launch",
+            "mainClass": "entrada_salida.TablaEmpleadosv3",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleDoWhile01",
+            "request": "launch",
+            "mainClass": "estructuras_repetitivas.ExampleDoWhile01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleDoWhile02",
+            "request": "launch",
+            "mainClass": "estructuras_repetitivas.ExampleDoWhile02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleFor01",
+            "request": "launch",
+            "mainClass": "estructuras_repetitivas.ExampleFor01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleFor02",
+            "request": "launch",
+            "mainClass": "estructuras_repetitivas.ExampleFor02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleWhile01",
+            "request": "launch",
+            "mainClass": "estructuras_repetitivas.ExampleWhile01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleWhile02",
+            "request": "launch",
+            "mainClass": "estructuras_repetitivas.ExampleWhile02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleIf",
+            "request": "launch",
+            "mainClass": "estructuras_selectivas.ExampleIf",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "IfElseExample",
+            "request": "launch",
+            "mainClass": "estructuras_selectivas.IfElseExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "IfElseIfExample",
+            "request": "launch",
+            "mainClass": "estructuras_selectivas.IfElseIfExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "IfExample",
+            "request": "launch",
+            "mainClass": "estructuras_selectivas.IfExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExample",
+            "request": "launch",
+            "mainClass": "estructuras_selectivas.SwitchExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleBreak01",
+            "request": "launch",
+            "mainClass": "instrucciones_salto.ExampleBreak01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleBreak02",
+            "request": "launch",
+            "mainClass": "instrucciones_salto.ExampleBreak02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleContinue01",
+            "request": "launch",
+            "mainClass": "instrucciones_salto.ExampleContinue01",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExampleContinue02",
+            "request": "launch",
+            "mainClass": "instrucciones_salto.ExampleContinue02",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionExample1",
+            "request": "launch",
+            "mainClass": "intro_excepciones.ExceptionExample1",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionExample2",
+            "request": "launch",
+            "mainClass": "intro_excepciones.ExceptionExample2",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionExample3",
+            "request": "launch",
+            "mainClass": "intro_excepciones.ExceptionExample3",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "CharSequenceExample",
+            "request": "launch",
+            "mainClass": "strings.CharSequenceExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "CharacterExamples",
+            "request": "launch",
+            "mainClass": "strings.CharacterExamples",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "ExpresionRegularExamples",
+            "request": "launch",
+            "mainClass": "strings.ExpresionRegularExamples",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "FormatterExample",
+            "request": "launch",
+            "mainClass": "strings.FormatterExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "IdentidadObjeto",
+            "request": "launch",
+            "mainClass": "strings.IdentidadObjeto",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "MutableInmutable",
+            "request": "launch",
+            "mainClass": "strings.MutableInmutable",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferExample",
+            "request": "launch",
+            "mainClass": "strings.StringBufferExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderExample",
+            "request": "launch",
+            "mainClass": "strings.StringBuilderExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "StringExamples",
+            "request": "launch",
+            "mainClass": "strings.StringExamples",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "StringTokenizerExample",
+            "request": "launch",
+            "mainClass": "strings.StringTokenizerExample",
+            "projectName": "Codigoruth-_76421395"
+        },
+        {
+            "type": "java",
+            "name": "StringsMethodsDemo",
+            "request": "launch",
+            "mainClass": "strings.StringsMethodsDemo",
+            "projectName": "Codigoruth-_76421395"
+        }
+    ]
+}

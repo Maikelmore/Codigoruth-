@@ -7,7 +7,7 @@
  *  StringBuilder permite la modificación directa de su contenido, lo cual lo hace ideal para 
  *  situaciones donde se realizan múltiples operaciones de concatenación o manipulación de texto.
  */
-package strings;
+package cadenas;
 public class StringBuilderExample {
     public static void main(String[] args) {
         // Crear un objeto StringBuilder con un valor inicial

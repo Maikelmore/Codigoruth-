@@ -15,7 +15,7 @@
  */
 package strings;
 
-
+import java.net.Socket;
 
 public class StringsMethodsDemo {
     public static void main(String[] args) {

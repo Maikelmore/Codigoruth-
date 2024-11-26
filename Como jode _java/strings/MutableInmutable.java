@@ -7,7 +7,7 @@
 * Si intentas modificar un String, Java crea un nuevo objeto en memoria en lugar de cambiar el original.
  * 
  */
-package strings;
+package cadenas;
 public class MutableInmutable {
     /*
      * Para mostrar que String es inmutable, puedes crear un ejemplo que asigne nuevas cadenas

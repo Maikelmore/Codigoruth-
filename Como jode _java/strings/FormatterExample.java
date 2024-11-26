@@ -1,4 +1,4 @@
-package strings;
+package cadenas;
 import java.util.Formatter;
 public class FormatterExample {
     public static void main(String[] args) {

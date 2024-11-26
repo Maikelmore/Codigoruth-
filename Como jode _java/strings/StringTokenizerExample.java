@@ -1,4 +1,4 @@
-package strings;
+package cadenas;
 import java.util.StringTokenizer;
 public class StringTokenizerExample {
     public static void main(String[] args) {
